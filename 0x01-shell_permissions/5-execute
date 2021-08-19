@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 001 hello
+sudo chmod -R 755 hello
